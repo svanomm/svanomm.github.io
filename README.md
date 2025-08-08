@@ -8,19 +8,19 @@ This GitHub Pages website highlights my research, projects, and technical expert
 
 - **Applied Economics**: Microeconometric methods, policy evaluation, and economic analysis
 - **Machine Learning**: Predictive modeling, deep learning, and statistical learning
-- **Data Science**: Real-time analytics, NLP, and business intelligence applications
+- **Data Science**: Advanced analytics, big data processing, and data visualization
 
 ## Featured Work
 
 ### Key Projects
-- **[Sentiment Volume Forecasting](https://github.com/svanomm/sentiment-volume-forecasting)**: ML-based airline stock prediction using GDELT news data
-- **[Super Search](https://github.com/svanomm/super-search)**: Semantic PDF indexing tool using advanced NLP
+- **[Sentiment Volume Forecasting](https://github.com/svanomm/sentiment-volume-forecasting)**: ML-based airline stock prediction using realtime news sentiment and LLM embeddings
+- **[Super Search](https://github.com/svanomm/super-search)**: Local semantic search engine using advanced NLP
 - **Economic Research**: Multiple projects in labor economics, development economics, and forecasting
 
 ### Technical Skills
 - **Languages**: Python, R, Stata, LaTeX, SQL
-- **Python Libraries**: TensorFlow, PyTorch, scikit-learn, pandas, transformers, sentence-transformers
-- **Specializations**: Econometric analysis, machine learning, real-time data processing
+- **Python Libraries**: pandas, scikit-learn, matplotlib, polars, transformers, and more
+- **Specializations**: Microeconometric analysis, machine learning methods, big data analysis
 
 ## Visit the Website
 
