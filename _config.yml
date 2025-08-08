@@ -16,6 +16,13 @@ github_username: svanomm
 # SEO
 author: Steven VanOmmeren
 lang: en
+twitter:
+  username: # Add if available
+  card: summary
+
+# Additional SEO
+tagline: "Applied Economist and Data Scientist"
+keywords: "economics, data science, machine learning, econometrics, Python, R, predictive analytics"
 
 # Collections
 collections:
