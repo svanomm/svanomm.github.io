@@ -47,7 +47,9 @@ I have assisted on a variety of other publications:
 - *[Competition, privacy, and big data](https://scholarship.law.edu/jlt/vol28/iss2/4/)*
   
 ### School Projects
-- 
+- *[Predicting Intraday Trading Volume with News Sentiment: An Analysis of U.S. Airline Stocks](https://github.com/svanomm/sentiment-volume-forecasting/blob/main/Paper/main.pdf)*
+- *[Correcting Multiple Forms of Bias in the Wage Equation of Women Using Conditional Mixed Processes](https://github.com/svanomm/labor-economics-final/blob/main/20250508___VanOmmeren_Labor_Economics_Final.pdf)*
+- *[Exploring Heterogeneous Responses to Text Message Development Programs: An Application of Machine Learning to Fabregas et al. (2025)](https://github.com/svanomm/development-econ/blob/main/final/Paper/VanOmmeren%20DevEcon%20Final%20Paper.pdf)*
 
   
 ## Programming Languages
