@@ -1,0 +1,49 @@
+# Site settings
+title: Steven VanOmmeren
+email: # Will add social links instead
+description: Applied Economist and Data Scientist specializing in machine learning predictions, microeconometric methods, and data science.
+baseurl: ""
+url: "https://svanomm.github.io"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Social media
+github_username: svanomm
+
+# SEO
+author: Steven VanOmmeren
+lang: en
+twitter:
+  username: # Add if available
+  card: summary
+
+# Additional SEO
+tagline: "Applied Economist and Data Scientist"
+keywords: "economics, data science, machine learning, econometrics, Python, R, predictive analytics"
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:name/
+
+# Navigation
+header_pages:
+  - about.md
+  - projects.md
+  - skills.md
+  - contact.md
+
+# Minima settings
+minima:
+  social_links:
+    github: svanomm
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://svanomm.github.io/sitemap.xml
