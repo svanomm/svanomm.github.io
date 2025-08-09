@@ -15,27 +15,22 @@ I am currently pursuing an MS in Applied Economics at Boston College, expecting 
 
 ## Professional Experience
 Since graduating college in 2020, I have spent 5 years working in economic consulting, with most of my projects involving antitrust litigation, regression analysis, and damages estimation. I worked at Charles River Associates from 2020-2021, and have worked at BRG since 2021, both in the Washington, DC area.
-
 ## Research Interests
-
-### Predictive Analytics
-I develop and apply machine learning models for economic and financial forecasting, with particular expertise in:
-- Time series analysis and forecasting
-- Real-time sentiment analysis using news data
-- Stock market prediction and financial modeling
-
 ### Microeconometric Methods
 My economic research employs modern econometric techniques including:
 - Difference-in-differences estimation
 - Causal inference methods
 - Policy evaluation and impact assessment
-
+### Predictive Analytics
+I develop and apply machine learning models for economic and financial forecasting, with particular expertise in:
+- Time series analysis and forecasting
+- Real-time sentiment analysis using news data
+- Stock market prediction and financial modeling
 ### Odds and Ends
 Some of my spare time is spent on personal projects, with a particular interest in natural language processing and large language models:
 - Building a local search engine complete with a PDF processing pipeline and semantic search
 - Experimenting with local speech-to-text and text-to-speech models for computer accessibility
 - Miscellaneous productivity-enhancing apps and workflows to help me work faster
-
 ## Publications & Projects
 
 ### Publications
@@ -50,6 +45,7 @@ I have assisted on a variety of other publications:
 - *[Predicting Intraday Trading Volume with News Sentiment: An Analysis of U.S. Airline Stocks](https://github.com/svanomm/sentiment-volume-forecasting/blob/main/Paper/main.pdf)*
 - *[Correcting Multiple Forms of Bias in the Wage Equation of Women Using Conditional Mixed Processes](https://github.com/svanomm/labor-economics-final/blob/main/20250508___VanOmmeren_Labor_Economics_Final.pdf)*
 - *[Exploring Heterogeneous Responses to Text Message Development Programs: An Application of Machine Learning to Fabregas et al. (2025)](https://github.com/svanomm/development-econ/blob/main/final/Paper/VanOmmeren%20DevEcon%20Final%20Paper.pdf)*
+- 
 
   
 ## Programming Languages
